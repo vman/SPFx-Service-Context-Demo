@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-service-context-demo-client-side-solution",
+    "id": "30e8fcf5-81b8-4341-8f11-c0a9367b1094",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-service-context-demo.sppkg"
+  }
+}

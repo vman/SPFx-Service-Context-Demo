@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/consumer/ConsumerWebPart.js",
+      "manifest": "./src/webparts/consumer/ConsumerWebPart.manifest.json",
+      "outputPath": "./dist/consumer.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "consumerStrings": "webparts/consumer/loc/{locale}.js"
+  }
+}
